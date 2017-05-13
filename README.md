@@ -2,7 +2,8 @@
 Sliding cards
 
 
-Actually this 'Sliding Cards' consists of  three uiviews placed on a background  uiview in a viewcontroller.
+
+This 'Sliding Cards' consists of  three uiviews placed on a background  uiview in a viewcontroller.
 
 When a user taps on the card it will recognises the gesture and do the further animation action.There are three buttons seen in the view controller.By using this buttons also, we can control the swipe.
 
